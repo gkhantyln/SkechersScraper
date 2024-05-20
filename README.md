@@ -39,8 +39,8 @@ cd SkechersScraper
 ## Kullanım
 1 - Python betiğini çalıştırın:
 ```bash
-python requestsBS4.py
-python requestsBS4_csv.py
+python main_xlsx.py
+python main_csv.py
 ```
 2 - Başlangıç ve Bitiş Sayfalarıı Girin:
 ```bash
